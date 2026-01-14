@@ -9,8 +9,9 @@ Appilcation Under test: https://thinking-tester-contact-list.herokuapp.com/
 API documentation : https://documenter.getpostman.com/view/4012288/TzK2bEa8 
 
 Deliverables: 
-Postman Collection with all API requests
-Environment variables configured
-Test cases documented in Excel
-Automated assertions for each request
-Successful execution with no critical failures
+
+1. Postman Collection with all API requests
+2. Environment variables configured
+3. Test cases documented in Excel
+4. Automated assertions for each request
+5. Successful execution with no critical failures
